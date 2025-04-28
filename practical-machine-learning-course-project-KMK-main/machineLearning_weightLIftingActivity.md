@@ -1,6 +1,6 @@
 ---
 title: "Human Activity Recognition in Weight Lifting Exercise"
-author: "Kaung Myat Khant"
+author: "rubby syihabuddin"
 date: "2025-04-12"
 output: 
     html_document:  
